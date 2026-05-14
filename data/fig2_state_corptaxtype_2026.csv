@@ -2,7 +2,7 @@ State,Abbrev,TaxType,TopRate,TopBracketStart,TaxType_str,TaxType_str_short,fill_
 Alabama,AL,1,6.50%,$0,Flat state corporate income tax rate,Flat corp income tax rate,red,black
 Alaska,AK,3,9.40%,$222k,Progressive state corporate income tax rates,Progressive corp income tax rates,blue,white
 Arizona,AZ,1,4.90%,$0,Flat state corporate income tax rate,Flat corp income tax rate,red,black
-Arkansas,AR,2,4.30%,$11k,Nearly flat state corporate income tax rates,Nearly flat corp income tax rates,purple,black
+Arkansas,AR,2,4.10%,$11k,Nearly flat state corporate income tax rates,Nearly flat corp income tax rates,purple,black
 California,CA,1,8.84%,$0,Flat state corporate income tax rate,Flat corp income tax rate,red,black
 Colorado,CO,1,4.40%,$0,Flat state corporate income tax rate,Flat corp income tax rate,red,black
 Connecticut,CT,3,8.25%,$100m,Progressive state corporate income tax rates,Progressive corp income tax rates,blue,white

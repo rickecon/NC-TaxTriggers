@@ -2,7 +2,7 @@ State,Abbrev,TaxType,TopRate,TopBracketStart,TaxType_str,TaxType_str_short,fill_
 Alabama,AL,2,5.00%,$6k,Nearly flat state income tax rates,Nearly flat income tax rates,purple,black
 Alaska,AK,0,0.00%,$0,No state labor income tax,No income tax,#D8D3D3,black
 Arizona,AZ,1,2.50%,$0,Flat state income tax rate,Flat income tax rate,red,black
-Arkansas,AR,3,3.90%,$36.8k,Progressive state income tax rates,Progressive income tax rates,blue,white
+Arkansas,AR,3,3.70%,$36.8k,Progressive state income tax rates,Progressive income tax rates,blue,white
 California,CA,3,13.30%,$1.485906m,Progressive state income tax rates,Progressive income tax rates,blue,white
 Colorado,CO,3,4.40%,$32.2k,Progressive state income tax rates,Progressive income tax rates,blue,white
 Connecticut,CT,3,6.99%,$1m,Progressive state income tax rates,Progressive income tax rates,blue,white
